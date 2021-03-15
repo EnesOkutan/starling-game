@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:caa0eac0632d7df7c21f0e83eade523f:eb6d0aa829ff635adeb37c2063202673:9575650d83476ce00e9190a53a93d6ef$ -->
+<TextureAtlas imagePath="atlas.png" width="1899" height="1944">
+    <SubTexture name="Arrow" x="736" y="1844" rotated="true" width="204" height="58"/>
+    <SubTexture name="Bg" x="1" y="1" width="1041" height="1575"/>
+    <SubTexture name="CircleBorder" x="1044" y="1" width="854" height="855"/>
+    <SubTexture name="Close" x="1712" y="1649" width="87" height="93"/>
+    <SubTexture name="Coin" x="736" y="1578" width="247" height="264"/>
+    <SubTexture name="Sectors" x="1044" y="858" width="789" height="789"/>
+    <SubTexture name="TurnButton" x="985" y="1649" width="725" height="294" frameX="-4" frameY="-4" frameWidth="733" frameHeight="298"/>
+    <SubTexture name="TurnButtonPressed" x="1" y="1578" width="733" height="298"/>
+</TextureAtlas>
