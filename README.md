@@ -19,4 +19,4 @@
 <img src="https://i.ibb.co/LPnCnpM/Screen-Shot-2021-03-15-at-15-42-09.png" width="300">
 
 ### Game Video is Here:
-* https://user-images.githubusercontent.com/36725317/111157020-70986400-85a7-11eb-9be4-7a2d5bf026c0.mov
+https://user-images.githubusercontent.com/36725317/111157020-70986400-85a7-11eb-9be4-7a2d5bf026c0.mov
