@@ -11,9 +11,9 @@
 
 <img src="https://i.ibb.co/BtD1F35/Screen-Shot-2021-03-15-at-15-21-54.png" width="300">
 
-### Play game
+### Collect the gold and be careful not to lose it
 
-<img src="https://i.ibb.co/ZzPLxxK/Screen-Shot-2021-03-15-at-15-22-11.png" width="300">
+<img src="https://i.ibb.co/ZzPLxxK/Screen-Shot-2021-03-15-at-15-22-11.png" width="300">&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/W3bMwNy/Screen-Shot-2021-03-15-at-15-40-36.png" width="300">
 
-<img src="https://i.ibb.co/W3bMwNy/Screen-Shot-2021-03-15-at-15-40-36.png" width="300">
+### Don't worry if you run out of gold! You have one more chance
 <img src="https://i.ibb.co/LPnCnpM/Screen-Shot-2021-03-15-at-15-42-09.png" width="300">
